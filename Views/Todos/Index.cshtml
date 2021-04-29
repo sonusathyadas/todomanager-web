@@ -1,0 +1,58 @@
+@model IEnumerable<TodoManager.Models.Todo>
+@{
+    ViewBag.Title = "Todos";
+}
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h2>Todos</h2>
+        <p>
+            <a asp-controller="Todos" asp-action="Create">Add New</a>
+        </p>
+        <table class="table">
+            <tr>
+                <th>Title </th>
+                <th>Completed</th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        <input type="checkbox" asp-for="@item.IsCompleted" onclick="updateStatus(this,@item.Id)" />
+                    </td>
+                    <td>
+                        <a asp-controller="Todos" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+
+    </div>
+</div>
+
+@section Scripts{
+<script>
+    function updateStatus(ctrl,id){
+        $.ajax({
+            url:`/todos/update/${id}`,
+            method:"post",
+            data:JSON.stringify({
+                Id:id,
+                IsCompleted:ctrl.checked
+            }),
+            contentType:"application/json",
+            dataType:"json",
+            success:(res)=>{
+                console.log(res)
+            },
+            error:(err)=>{
+                console.log("Error " , err)
+            }
+        })
+        console.log(ctrl.checked)
+    }
+</script>
+}

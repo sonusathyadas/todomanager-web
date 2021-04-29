@@ -1,0 +1,148 @@
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/appsettings.Development.json
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/appsettings.json
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.deps.json
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.runtimeconfig.json
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.runtimeconfig.dev.json
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/ref/TodoManager.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.Views.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/TodoManager.Views.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Humanizer.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.Identity.Client.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/Newtonsoft.Json.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/System.Configuration.ConfigurationManager.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/System.Runtime.Caching.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.csprojAssemblyReference.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.AssemblyInfoInputs.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.AssemblyInfo.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.csproj.CoreCompileInputs.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.MvcApplicationPartsAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorAssemblyInfo.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/staticwebassets/TodoManager.StaticWebAssets.Manifest.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/staticwebassets/TodoManager.StaticWebAssets.xml
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/scopedcss/bundle/TodoManager.styles.css
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.TagHelpers.input.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.TagHelpers.output.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorCoreGenerate.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Todos/Create.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Todos/Index.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorTargetAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorTargetAssemblyInfo.cs
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.Views.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.csproj.CopyComplete
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/ref/TodoManager.dll
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.pdb
+/home/sonusathyadas/Desktop/Demos/TodoManager/obj/Release/net5.0/TodoManager.genruntimeconfig.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/appsettings.Development.json
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/appsettings.json
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.deps.json
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.runtimeconfig.json
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.runtimeconfig.dev.json
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/ref/TodoManager.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.Views.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/TodoManager.Views.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Humanizer.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.Identity.Client.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/Newtonsoft.Json.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/System.Configuration.ConfigurationManager.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/System.Runtime.Caching.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.csprojAssemblyReference.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.AssemblyInfoInputs.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.AssemblyInfo.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.csproj.CoreCompileInputs.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.MvcApplicationPartsAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorAssemblyInfo.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/staticwebassets/TodoManager.StaticWebAssets.Manifest.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/staticwebassets/TodoManager.StaticWebAssets.xml
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/scopedcss/bundle/TodoManager.styles.css
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.TagHelpers.input.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.TagHelpers.output.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorCoreGenerate.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Todos/Create.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/Todos/Index.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorTargetAssemblyInfo.cache
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.RazorTargetAssemblyInfo.cs
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.Views.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.csproj.CopyComplete
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/ref/TodoManager.dll
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.pdb
+/home/sonusathyadas/Desktop/Azure PaaS/Demos/TodoManager/obj/Release/net5.0/TodoManager.genruntimeconfig.cache
